@@ -28,4 +28,4 @@ Projede iki farklı arayüz geliştirilmiştir:
 
 ```bash
 chmod +x mp3_gui.sh
-./mp3_player_gui.sh
+./mp3_gui.sh
