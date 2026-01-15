@@ -29,6 +29,6 @@ Projede iki farklı arayüz geliştirilmiştir:
 ```bash
 chmod +x mp3_gui.sh
 ./mp3_gui.sh
-
+```
 #### 🎬 Tanıtım Videosu
 [Proje tanıtım videosunu izlemek için tıklayın](https://youtu.be/zmgPd-T1y8g)
