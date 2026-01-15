@@ -1,6 +1,6 @@
 #!/bin/bash
 
-MUSIC_DIR="/home/beyza/Müzik"
+MUSIC_DIR="muzikler/"
 PLAYER_PID=""
 CURRENT=0
 
