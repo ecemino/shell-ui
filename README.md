@@ -67,8 +67,6 @@ Durdur
 
 Çıkış
 
-Ekran Görüntüsü (Örnek – ekleyeceğiniz):
-
 ## 4️⃣ Kurulum Talimatları ve Sistem Gereksinimleri
 
 ### Sistem Gereksinimleri:
