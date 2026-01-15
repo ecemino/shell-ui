@@ -12,7 +12,7 @@ Projede iki farklı arayüz geliştirilmiştir:
 
 Özellikler:
 
-- Playlist: `/home/beyza/Müzik` klasöründeki tüm MP3 dosyaları  
+- Playlist: `muzikler/` klasöründeki tüm MP3 dosyaları  
 - Oynatma / Durdurma  
 - Önceki / Sonraki şarkı  
 - 5 saniye ileri / geri (mpg123 kısıtlaması nedeniyle yaklaşık)  
@@ -26,7 +26,7 @@ Projede iki farklı arayüz geliştirilmiştir:
 
 ```bash
 chmod +x mp3_gui.sh
-./mp3_player_gui.sh
+./mp3_gui.sh
 ```
 2. Açılan pencere üzerinde butonları kullanarak:
 
@@ -90,12 +90,12 @@ Arayüzlerden birini çalıştırın:
 
 GUI:
 ```bash
-./mp3_player_gui.sh
+./mp3_gui.sh
 ```
 
 TUI:
 ```bash
-./mp3_player_tui.sh
+./mp3_tui.sh
 ```
 
 ## 6️⃣ Tanıtım Videosu
